@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Håkon</h1>
 
 <!--
 **Haakliv/Haakliv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haakliv&show_icons=true&locale=en" alt="haakliv" /></p>
